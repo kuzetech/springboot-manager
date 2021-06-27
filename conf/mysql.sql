@@ -1,3 +1,7 @@
+create database company_project character set 'utf8' collate 'utf8_general_ci';
+
+use company_project;
+
 -- 部门
 DROP TABLE IF EXISTS `sys_dept`;
 CREATE TABLE `sys_dept` (

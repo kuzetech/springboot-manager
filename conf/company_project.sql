@@ -14,10 +14,6 @@
  Date: 05/06/2021 11:56:10
 */
 
-create database company_project character set 'utf8' collate 'utf8_general_ci';
-
-use company_project;
-
 SET NAMES utf8mb4;
 SET FOREIGN_KEY_CHECKS = 0;
 
